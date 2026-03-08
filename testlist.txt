@@ -1,0 +1,10 @@
+sea lion
+cheetah
+puma
+caracal
+ocelot
+serval
+bobcat
+lynx
+domestic cat
+*Pantherinae

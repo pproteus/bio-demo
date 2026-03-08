@@ -1,9 +1,8 @@
-- multiple genes at once
 - biopython tree drawer?
-- integrate python script
-- specify outgroup
 - narrate what this demo actually does and how to read the output
-- prevent collecter from adding the same seq twice. More generally, think about how to get collector to not see "lion" and add "sea lion" if that's a solution
-- handle case where gene flags are missing. blast the thing yourself? (and cache that)
+- prevent collecter from adding the same seq twice.
+- handle case where gene flags are missing. blast and cache the thing yourself? (test: tuatara)
 - better interface for finding feature names
 - something that lets you divide-and-conquer and/or hot-start
+- cache initial ncbi search
+- search taxonomy first to get the right taxonomic id? (test: platypus)
